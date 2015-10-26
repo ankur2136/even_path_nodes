@@ -4,7 +4,7 @@ Find nodes which have even length path from start node  in a directed acyclic gr
 Nodes are represented in the form of adjacency list.
 See sample input and output files
 
-
-Execution
-$ make
-$ ./evenpath
+#Build
+1. $make clean
+2. $make
+3. $./evenpath
